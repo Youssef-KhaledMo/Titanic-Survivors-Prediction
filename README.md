@@ -1,1 +1,2 @@
 # Titanic-Survivors-Prediction
+This project focuses on predicting Titanic survivors by applying various feature selection techniques and evaluating the performance of different machine learning models. We employ methods such as Random Forest Feature Importance, Permutation Importance, Recursive Feature Elimination (RFE), and Statistical Tests to select the most significant features. After feature selection, we build and evaluate models using K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) to predict the survival of passengers.
